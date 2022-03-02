@@ -2,7 +2,7 @@
 
 ## Capturas
 ### Reconocimiento de laboratorio
-  ![Captura 1](/capturas/img.png)
+  ![image](/capturas/img.png | width=100px)
 
 
 ## License
