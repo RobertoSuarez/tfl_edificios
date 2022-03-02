@@ -2,9 +2,19 @@
 
 ## Capturas
 ### Reconocimiento de laboratorio
-  ![image](/capturas/img.png | width=100px)
-<img alt="Fiber" height="125" src="/capturas/img.png">
+<img alt="Fiber" height="300" src="/capturas/img.png">
 
+### Reconocimiento de ciencias pecuarias
+<img alt="Fiber" height="300" src="/capturas/img_1.png">
+
+### Reconocimiento de laboratorios
+<img alt="Fiber" height="300" src="/capturas/img_2.png">
+
+### Reconocimiento de ciencias agrarias
+<img alt="Fiber" height="300" src="/capturas/img_3.png">
+
+### Reconocimiento de edificios en construcción
+<img alt="Fiber" height="300" src="/capturas/img_4.png">
 
 ## License
 
