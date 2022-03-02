@@ -3,6 +3,7 @@
 ## Capturas
 ### Reconocimiento de laboratorio
   ![image](/capturas/img.png | width=100px)
+<img alt="Fiber" height="125" src="/capturas/img.png">
 
 
 ## License
