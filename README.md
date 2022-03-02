@@ -2,7 +2,16 @@
 
 ## Capturas
 ### Reconocimiento de laboratorio
-  ![Captura 1](/capturas/img.png)
+    ![Captura 1](/capturas/img.png | width=100)
+
+### Reconocimiento de ciencias pecuarias
+    ![Captura 2](/capturas/img_1.png | width=100)
+
+### Reconocimiento de laboratorio
+    ![Captura 3](/capturas/img_2.png | width=100)
+
+### Reconocimiento de ciencias agrarias
+    ![Captura 4](/capturas/img_3.png | width=100)
 
 
 ## License
